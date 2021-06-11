@@ -12,7 +12,7 @@ SmartHouse dog
 </font>
 
 
-<font face="Bahnschrift Condensed" size="5" color="#C1CDC1">
+<font face="Bahnschrift Condensed" size="4" color="#C1CDC1">
 <p align="left">
 &#10148; Objetivo 
 </p></font>
@@ -21,51 +21,144 @@ O projeto consiste no desenvolvimento de uma casa inteligente para os cães com 
 
 <br>
 
-<font face="Bahnschrift Condensed" size="5" color="#C1CDC1">
-<p align="center">
+<font face="Bahnschrift Condensed" size="4" color="#C1CDC1">
+<p align="left">
 &#10148; Algumas imagens do desenvolvimento do projeto da casa(3D)<br>
 </p>
 
 <p align="center">
-<img src="ModeloSmartHouse(Slide).png" width="310" heigth="240">
+
+Modelo 3D completo da SmartHouse dog<br>
+<img src="ModeloSmartHouse.png" width="210" heigth="240">
+<br><br><br>
+<details>
+-Telhado: telha sanduiche<br>
+-Parede externa: forro de pinus<br>
+-Parede interna: xapadur<br>
+-Entre a parede: manta térmica<br>
+-Base: tábua de pinus<br>
+-Parede frontal: acrílico<br>
+<summary> <b>Especificações técnicas</b>
+</details>
+<br><br><br>
+
+Esqueleto da SmartHouse  dog<br>
+<img src="EsqueletoSmartHome.png" width="210" heigth="240">
+<details>
+-Comprimento: 70cm<br>
+-Largura: 60cm<br>
+-Altura frontal: 50cm<br> 
+-Altura fundo: 40cm<br>
+-Material utilizado: metalom galvanizado<br>
+<summary> <b>Dimensões</b>
+</details>
+<br><br><br>
+
+Alimentador<br>
+<img src="AlimentadorCompleto.png" width="210" heigth="240">
+<details>
+-Comprimento: 20cm<br>
+-Largura: 20cm<br>
+-Altura: 70cm<br> 
+-Material utilizado: madeira<br>
+<summary> <b>Alimentador</b>
+</details>
+
 </p>
-
 </font>
-
-
-
-
-
-
-
 
 
 
 <br><br>
 <font face="Bahnschrift Condensed" size="5" color="#C1CDC1">
-&#x1F198;Auto ajuda!
+&#10148; Recursos<br>
+<img src="recursoSmartHouse.png" width="550">
 </font>
-
-<details>
-<summary> <b>Insira aqui...
-</details>
 
 <br>
 
 <hr size="4" width="450" color="#0E0B16">
 
-<font face="Bahnschrift Condensed" size="5" color="#778899">
-<p align = "center">&#x1F3C3; Pyton &#x1F40D;	
-</p></font>
-<p align = "center">Python é uma linguagem de programação de alto nível, interpretada, de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte.
+
+
+<font face="Bahnschrift Condensed" size="5" color="#C1CDC1">
+Plataforma e Hardware </font>
+<br>	
+<font face="Bahnschrift Condensed" size="3" color="#BEBEBE">
+-Para a realização do projeto na parte de hardware, foi utilizado um Arduino Uno. Para inserir a programação utilizamos sua IDE.<br>
+</font>
+<img src="logoIDE.png" width="100" heigth="100">
+<br><br>
+
+<font face="Bahnschrift Condensed" size="5" color="#C1CDC1">
+<i>"Mas o que é o arduino?"</i></font>
 <br>
-<img src="codfoto.jpg" width="300" heigth="100"></p>
+<font face="Bahnschrift Condensed" size="3" color="#BEBEBE">
+-Arduino é uma plataforma eletrônica de código aberto baseada em hardware e software fáceis de usar. As placas Arduino são capazes de ler entradas - luz em um sensor, um dedo em um botão ou uma mensagem do Twitter - e transformá-la em uma saída - ativando um motor, ligando um LED, publicando algo online. Você pode dizer à sua placa o que fazer enviando um conjunto de instruções para o microcontrolador da placa.
+</font>
+<br>
+<img src="imagemArduinoUno.png" width="200"><br>
+<font face="Bahnschrift Condensed" size="2" color="#C1CDC1">
+© 2021 Arduino Política de Privacidade (Colocar link)
+</font>
+<br>
 <br>
 
-&#x1F4D6;<i>"Não é a linguagem de programação que define o programador, mas sim sua lógica.<br> 
-by: David Ribeiro Guilherme"</i> 
+<font face="Bahnschrift Condensed" size="5" color="#C1CDC1">
+Linguagem</font>	
+<br>
+<img src="c++.png" width="100" heigth="100"><br>
+-C++ é uma linguagem de alto nível utilizada para programação em arduino.
+<br><br>
+
+<font face="Bahnschrift Condensed" size="5" color="#C1CDC1">
+Componentes utilizados
+</font>	
+<br>
+-1 Arduino Uno<br>
+-5 Relés<br>
+-2 Coolers<br>
+-2 Sensores de temperatura e umidade<br>
+-1 ESP8266<br>
+-1 Célula de carga e módulo<br>
+-2 LEDS<br>
+-2 Resistores<br>
+-1 Motor com redutor 30RPM<br>
+-1 Motor peristáltico<br> 
+-1 Luz externa
+
+<br><br>
+<br><br>
+
+<font face="Bahnschrift Condensed" size="5" color="#C1CDC1">
+Códigos
+</font>	
+
+<br><br>
+<br><br>
+
+<font face="Bahnschrift Condensed" size="5" color="#C1CDC1">
+Consumo e dados técnicos
+</font>	
+
+<br><br>
+<br><br>
+
+<font face="Bahnschrift Condensed" size="5" color="#C1CDC1">
+Benefícios</font><br>
+-Controlar a distancia, basta uma conexão com wi-fi.<br>
+-Não se preocupar com a alimentação, pois a casa fará todo o processo.<br>
+-Um cantinho aconchegante para seu melhor amigo.<br>
+-Informações sobre a casa em seu Smartphone.<br>
+-A casa possui um detalhe minimalista, porém muito aconchegante.<br>
+-Baixo custo.<br>
+
+<br><br>
+<br><br>
 
 <p align = "center">
 <a href = "https://api.whatsapp.com/send?phone=5548996301654&text=Vinicius%20Damiani"><img src="Anuncio.gif" width="180" heigth="100">
 </p>
-</body></html>
+
+</body>
+</html>
