@@ -24,7 +24,7 @@ O projeto consiste no desenvolvimento de uma casa inteligente para os cães com 
 </p>
 
 <p align="left">
-<font size=+2>Modelo 3D completo da SmartHouse dog</font><br>
+Modelo 3D completo da SmartHouse dog<br>
 <img src="ModeloSmartHouse.png" width="410">
 <details>
 -Telhado: telha sanduiche<br>
@@ -38,7 +38,7 @@ O projeto consiste no desenvolvimento de uma casa inteligente para os cães com 
 
 <br><br><br>
 
-<font size=+2>Esqueleto da SmartHouse dog</font><br>
+Esqueleto da SmartHouse  dog<br>
 <img src="EsqueletoSmartHome.png" width="410">
 <details>
 -Comprimento: 70cm<br>
@@ -51,65 +51,53 @@ O projeto consiste no desenvolvimento de uma casa inteligente para os cães com 
 
 <br><br><br>
 
-<font size=+2>Alimentador</font> <br>
-<img src="AlimentadorCompleto.png" width="210" heigth="240">
+Alimentador<br>
+<img src="AlimentadorCompleto.png" width="410">
 <details>
 -Comprimento: 20cm<br>
 -Largura: 20cm<br>
 -Altura: 70cm<br> 
 -Material utilizado: madeira<br>
-<summary> <b>Especificações Alimentador</b>
+<summary> <b> Alimentador</b>
 </details>
 </p>
 
-
-
 <br><br>
-<font face="Bahnschrift Condensed" size="5" color="#C1CDC1">
-&#10148; Recursos<br>
+<hr size="4" width="100%" color="#0E0B16">
+<br><br>
+
+Recursos<br>
 <img src="recursoSmartHouse.png" width="550">
-</font>
 
 <br>
 
-<hr size="4" width="450" color="#0E0B16">
 
 
 
-<font face="Bahnschrift Condensed" size="5" color="#C1CDC1">
-Plataforma e Hardware </font>
+
+Plataforma e Hardware
 <br>	
-<font face="Bahnschrift Condensed" size="3" color="#BEBEBE">
 -Para a realização do projeto na parte de hardware, foi utilizado um Arduino Uno. Para inserir a programação utilizamos sua IDE.<br>
-</font>
 <img src="logoIDE.png" width="100" heigth="100">
 <br><br>
 
-<font face="Bahnschrift Condensed" size="5" color="#C1CDC1">
-<i>"Mas o que é o arduino?"</i></font>
+<i>"Mas o que é o arduino?"</i>
 <br>
-<font face="Bahnschrift Condensed" size="3" color="#BEBEBE">
 -Arduino é uma plataforma eletrônica de código aberto baseada em hardware e software fáceis de usar. As placas Arduino são capazes de ler entradas - luz em um sensor, um dedo em um botão ou uma mensagem do Twitter - e transformá-la em uma saída - ativando um motor, ligando um LED, publicando algo online. Você pode dizer à sua placa o que fazer enviando um conjunto de instruções para o microcontrolador da placa.
-</font>
 <br>
 <img src="imagemArduinoUno.png" width="200"><br>
-<font face="Bahnschrift Condensed" size="2" color="#C1CDC1">
 © 2021 Arduino Política de Privacidade (Colocar link)
-</font>
 <br>
 <br>
 
-<font face="Bahnschrift Condensed" size="5" color="#C1CDC1">
-Linguagem</font>	
+Linguagem	
 <br>
 <img src="c++.png" width="100" heigth="100"><br>
 -C++ é uma linguagem de alto nível utilizada para programação em arduino.
 <br><br>
 
-<font face="Bahnschrift Condensed" size="5" color="#C1CDC1">
-Componentes utilizados
-</font>	
-<br>
+
+<details>
 -1 Arduino Uno<br>
 -5 Relés<br>
 -2 Coolers<br>
@@ -121,26 +109,26 @@ Componentes utilizados
 -1 Motor com redutor 30RPM<br>
 -1 Motor peristáltico<br> 
 -1 Luz externa
+<summary><b>Componentes</b> </summary>
+</details>
+
 
 <br><br>
 <br><br>
 
-<font face="Bahnschrift Condensed" size="5" color="#C1CDC1">
+
 Códigos
-</font>	
 
 <br><br>
 <br><br>
 
-<font face="Bahnschrift Condensed" size="5" color="#C1CDC1">
 Consumo e dados técnicos
-</font>	
 
 <br><br>
 <br><br>
 
-<font face="Bahnschrift Condensed" size="5" color="#C1CDC1">
-Benefícios</font><br>
+
+Benefícios<br>
 -Controlar a distancia, basta uma conexão com wi-fi.<br>
 -Não se preocupar com a alimentação, pois a casa fará todo o processo.<br>
 -Um cantinho aconchegante para seu melhor amigo.<br>
