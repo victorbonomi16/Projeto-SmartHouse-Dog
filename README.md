@@ -1,36 +1,31 @@
 <html>
 
-<p align="center">
+<p align="left">
 <img src="logoSmartHouseDog.jpg" width="210" heigth="140">
 </p>
 
 
-<font face="Bahnschrift Condensed" size="7" color="#C1CDC1">
 <p align="center">
 SmartHouse dog
 </p>
-</font>
 
 
-<font face="Bahnschrift Condensed" size="4" color="#C1CDC1">
 <p align="left">
-&#10148; Objetivo 
-</p></font>
-
+<b>-Objetivo </b>
+</p>
 O projeto consiste no desenvolvimento de uma casa inteligente para os cães com o intuito de trazer o conforto para o seu cãozinho e comodidade para seu dono. 
 
-<br>
+<br><br>
+<hr size="4" width="100%" color="#0E0B16">
+<br><br>
 
-<font face="Bahnschrift Condensed" size="4" color="#C1CDC1">
 <p align="left">
-&#10148; Algumas imagens do desenvolvimento do projeto da casa(3D)<br>
+<b>-Algumas imagens do desenvolvimento do projeto da casa(3D)</b><br>
 </p>
 
-<p align="center">
-
-Modelo 3D completo da SmartHouse dog<br>
-<img src="ModeloSmartHouse.png" width="210" heigth="240">
-<br><br><br>
+<p align="left">
+<font size=+2>Modelo 3D completo da SmartHouse dog</font><br>
+<img src="ModeloSmartHouse.png" width="410">
 <details>
 -Telhado: telha sanduiche<br>
 -Parede externa: forro de pinus<br>
@@ -40,10 +35,11 @@ Modelo 3D completo da SmartHouse dog<br>
 -Parede frontal: acrílico<br>
 <summary> <b>Especificações técnicas</b>
 </details>
+
 <br><br><br>
 
-Esqueleto da SmartHouse  dog<br>
-<img src="EsqueletoSmartHome.png" width="210" heigth="240">
+<font size=+2>Esqueleto da SmartHouse dog</font><br>
+<img src="EsqueletoSmartHome.png" width="410">
 <details>
 -Comprimento: 70cm<br>
 -Largura: 60cm<br>
@@ -52,20 +48,19 @@ Esqueleto da SmartHouse  dog<br>
 -Material utilizado: metalom galvanizado<br>
 <summary> <b>Dimensões</b>
 </details>
+
 <br><br><br>
 
-Alimentador<br>
+<font size=+2>Alimentador</font> <br>
 <img src="AlimentadorCompleto.png" width="210" heigth="240">
 <details>
 -Comprimento: 20cm<br>
 -Largura: 20cm<br>
 -Altura: 70cm<br> 
 -Material utilizado: madeira<br>
-<summary> <b>Alimentador</b>
+<summary> <b>Especificações Alimentador</b>
 </details>
-
 </p>
-</font>
 
 
 
