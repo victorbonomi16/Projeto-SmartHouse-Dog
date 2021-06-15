@@ -120,21 +120,135 @@ Linguagem
 
 
 <br><br>
+
+
+<details>
+<br>
+
+<p align="center">
+<B>CÓDIGO DE TESTE DO SENSOR DE NÍVEL DE ÁGUA</B>
+</p>
+<br>
+
+```C++
+#define ReleMotor 3
+#define SensorAgua 4
+void setup() {
+  pinMode(ReleMotor  , OUTPUT);
+  pinMode(SensorAgua ,  INPUT);
+  digitalWrite(ReleMotor, LOW);
+  Serial.begin(9600);
+}
+void loop() {
+ Ler_Sensor();
+}
+void Ler_Sensor()
+{
+ int ValorSensor = digitalRead(SensorAgua);
+ Serial.println(ValorSensor);
+  if(!ValorSensor)                 
+  {                                      
+     delay(2000);
+     digitalWrite(ReleMotor, HIGH);            
+
+  } 
+  else                                    
+  {                                       
+     delay(2000);
+     digitalWrite(ReleMotor, LOW);           
+  } 
+
+  }
+```
 <br><br>
+<br>
 
+<p align="center">
+<b>CÓDIGO DE TESTE DA CÉLULA DE CARGA</b>
+</P>
+<BR>
 
-Códigos
+```C++ 
 
+#define RELEMOTOR 2
+#include "HX711.h"                    
+#define DOUT  A0                     
+#define CLK  A1                       
+HX711 balanca;          
+float calibration_factor = 101790.00;     
+void setup()
+{
+  pinMode(RELEMOTOR, OUTPUT);
+  Serial.begin(9600);            
+  balanca.begin(DOUT, CLK);      
+  balanca.set_scale();                                             
+  zeraBalanca ();                                                  
+}
+void zeraBalanca ()
+{
+  Serial.println();                                               
+  balanca.tare();                                                
+  Serial.println("Balança Zerada ");
+}
+void loop()
+{
+  balanca.set_scale(calibration_factor);                     
+  Serial.print("Peso: ");                                   
+  Serial.print(balanca.get_units(), 3);                      
+  Serial.print(" kg");
+  Serial.print("      Fator de Calibração: ");               
+  Serial.println(calibration_factor);                       
+  delay(500) ;  
+}
+```
 <br><br>
+<br>
+
+<p align="center">
+<b>CÓDIGO DE TESTE DHT11</b>
+</p>
+<br>
+
+```C++ 
+#include <DHT.h>
+#include <DHT_U.h>
+#define DHTPIN 10 
+#define DHTTYPE DHT11   
+
+DHT dht(DHTPIN, DHTTYPE);
+
+void setup() {
+  Serial.begin(9600);
+  Serial.println(F("DHTxx test!"));
+  dht.begin();
+}
+
+void loop() {
+
+  delay(2000);
+
+  float humidade = dht.readHumidity();
+
+  float temperatura = dht.readTemperature();
+
+  if (isnan(humidade) || isnan(temperatura)) {
+    Serial.println(F("Falha ao ler do sensor DHT!"));
+    return;
+  }
+  Serial.print(F("Humidade: "));
+  Serial.println(humidade);
+  Serial.print(F("Temperatura: "));
+  Serial.println(temperatura);
+
+}
+```
+<summary><b>Codigos &#x2714;</b> </summary>
+</details>
 <br><br>
-
-Consumo e dados técnicos
-
-<br><br>
-<br><br>
+<br>
 
 
-Benefícios<br>
+<b>Benefícios</b><br>
 -Controlar a distancia, basta uma conexão com wi-fi.<br>
 -Não se preocupar com a alimentação, pois a casa fará todo o processo.<br>
 -Um cantinho aconchegante para seu melhor amigo.<br>
@@ -148,9 +262,9 @@ Benefícios<br>
 	🚧Em construção... 🚧
 </h4>
 
-- [x] Cadastro de usuário
-- [x] Cadastro de cliente
-- [ ] Cadastro de produtos
+- [ ] Construção Física da Casa
+- [ ] Construção Física do Alimentador
+- [x] Códigos e Testes dos Componenetes
 
 <br><br>
 
