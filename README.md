@@ -4,12 +4,7 @@
 <img src="logoSmartHouseDog.png" width="210" heigth="140">
 </p>
 
-
-
 <h1><p align="center">SmartHouse dog</p></h1>
-
-
-
 
 <h3><b><p align="center">OBJETIVO </b></h3>
 O projeto consiste no desenvolvimento de uma casa inteligente para os cães com o intuito de trazer o conforto para o seu cãozinho e comodidade para seu dono. </p>
@@ -62,7 +57,7 @@ O projeto consiste no desenvolvimento de uma casa inteligente para os cães com 
 <hr size="4" width="100%" color="#0E0B16">
 <br><br>
 
-<h2><b><p align="left">Recursos</p></h3></b>
+<h2><b><p align="left">Recursos</p></h2></b>
 <b>ALIMENTAÇÃO</b><br>
 A alimentação será de forma automática(Timer)
  ou de forma remota. através do seu SmartPhone<br><br>
@@ -77,7 +72,7 @@ A casa conta com paredes que possuem revestimento em manta térmica.<br><br>
 Você terá acesso a todas as informações dis hardware através do seu SmartPhone. Além de notificações constantemente.
 <br><br><br><br>
 
-Plataforma e Hardware
+<h2><b>Plataforma e Hardware</b></h2>
 <br>	
 -Para a realização do projeto na parte de hardware, foi utilizado um Arduino Uno. Para inserir a programação utilizamos sua IDE.<br>
 <p align="center">
@@ -90,15 +85,15 @@ Plataforma e Hardware
 <br>
 <p align="center">
 <img src="imagemArduinoUno.png" width="200"><br></p>
-© 2021 Arduino Política de Privacidade (Colocar link)
+© 2021 Arduino Política de Privacidade
 <br>
 <br>
 
-Linguagem	
+<h2><b>Linguagem</b></h2>
 <br>
 <p align="center">
 <img src="c++.png" width="100" heigth="100"><br></p>
--C++ é uma linguagem de alto nível utilizada para programação em arduino.
+-A linguagem utilizada foi C++ que é uma linguagem de alto nível utilizada para programação em arduino.
 <br><br>
 
 
@@ -272,5 +267,4 @@ void loop() {
 <a href = "https://api.whatsapp.com/send?phone=5548996301654&text=Vinicius%20Damiani"><img src="Anuncio.gif" width="180" heigth="100">
 </p>
 
-</body>
 </html>
