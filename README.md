@@ -15,7 +15,7 @@ O projeto consiste no desenvolvimento de uma casa inteligente para os cães com 
 
 
 <h3><b><p align="left">-Algumas imagens do desenvolvimento do projeto da casa(3D)</b></h3></p>
-<h3><p align="left">Modelo 3D completo da SmartHouse dog</p></h3>
+<h3><p align="center">Modelo 3D completo da SmartHouse dog</p></h3>
 <img src="ModeloSmartHouse.png" width="410">
 <details>
 -Telhado: telha sanduiche<br>
@@ -29,7 +29,7 @@ O projeto consiste no desenvolvimento de uma casa inteligente para os cães com 
 
 <br><br><br>
 
-<h3><p align="left">Esqueleto da SmartHouse  dog</p></h3>
+<h3><p align="center">Esqueleto da SmartHouse  dog</p></h3>
 <img src="EsqueletoSmartHome.png" width="410">
 <details>
 -Comprimento: 70cm<br>
