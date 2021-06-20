@@ -4,7 +4,7 @@
 <img src="logoSmartHouseDog.png" width="210" heigth="140">
 </p>
 
-<h1><p align="center">SmartHouse dog</p></h1>
+<h1><p align="center">SMARTHOUSE DOG</p></h1>
 
 <h3><b><p align="left">OBJETIVO </b></h3>
 O projeto consiste no desenvolvimento de uma casa inteligente para os cães com o intuito de trazer o conforto para o seu cãozinho e comodidade para seu dono. </p>
@@ -13,10 +13,8 @@ O projeto consiste no desenvolvimento de uma casa inteligente para os cães com 
 <hr size="4" width="100%" color="#0E0B16">
 <br><br>
 
-
-<h3><b><p align="left">-Algumas imagens do desenvolvimento do projeto da casa(3D)</b></h3></p>
-<h3><p align="left">Modelo 3D completo da SmartHouse dog</p></h3>
-<img src="ModeloSmartHouse.png" width="410">
+<h3><b><p align="center">MODELO 3D COMPLETO DA SMARTHOUSE DOG</p></b></h3>
+<p align="center"><img src="modelo3DsmartHouseDog.gif" width="410"></p>
 <details>
 -Telhado: telha sanduiche<br>
 -Parede externa: forro de pinus<br>
@@ -29,8 +27,8 @@ O projeto consiste no desenvolvimento de uma casa inteligente para os cães com 
 
 <br><br><br>
 
-<h3><p align="left">Esqueleto da SmartHouse  dog</p></h3>
-<img src="EsqueletoSmartHome.png" width="410">
+<h3><b><p align="center">ESQUELETO SMARTHOUSE DOG</p></b></h3>
+<p align="center"><img src="EsqueletoSmartHome.png" width="410"></p>
 <details>
 -Comprimento: 70cm<br>
 -Largura: 60cm<br>
@@ -42,14 +40,14 @@ O projeto consiste no desenvolvimento de uma casa inteligente para os cães com 
 
 <br><br><br>
 
-<h3><p align="center">ALIMENTADOR</p></h3>
-<img src="AlimentadorCompleto.png" width="410">
+<h3><b><p align="center">ALIMENTADOR SMARTHOUSE DOG</p></b></h3>
+<p align="center"><img src="AlimentadorCompleto.png" width="410"></p>
 <details>
 -Comprimento: 20cm<br>
 -Largura: 20cm<br>
 -Altura: 70cm<br> 
 -Material utilizado: madeira<br>
-<summary> <b> Alimentador</b>
+<summary> <b>Especificações Alimentador</b>
 </details>
 </p>
 
@@ -60,7 +58,7 @@ O projeto consiste no desenvolvimento de uma casa inteligente para os cães com 
 <h2><b><p align="left">Recursos</p></h2></b>
 <b>ALIMENTAÇÃO</b><br>
 A alimentação será de forma automática(Timer)
- ou de forma remota. através do seu SmartPhone<br><br>
+ ou de forma remota, através do seu SmartPhone.<br><br>
 
 <b>ILUMINAÇÃO</b><br>
 A iluminação será de forma automática. O controle é dado por um timer totalmente alteravél em seu SmartPhone.<br><br>
@@ -69,7 +67,7 @@ A iluminação será de forma automática. O controle é dado por um timer total
 A casa conta com paredes que possuem revestimento em manta térmica.<br><br>
 
 <b>COMUNICAÇÃO</b><br>
-Você terá acesso a todas as informações dis hardware através do seu SmartPhone. Além de notificações constantemente.
+Você terá acesso a todas as informações do hardware através do seu SmartPhone. Além de notificações constantemente.
 <br><br><br><br>
 
 <h2><b>Plataforma e Hardware</b></h2>
@@ -113,9 +111,7 @@ Você terá acesso a todas as informações dis hardware através do seu SmartPh
 <summary><b>Componentes Utilizados &#x2714;</b> </summary>
 </details>
 
-
-<br><br>
-
+<br>
 
 <details>
 <br>
@@ -239,11 +235,8 @@ void loop() {
 ```
 <summary><b>Codigos &#x2714;</b> </summary>
 </details>
-<br><br>
 <br>
-
-
-<b>Benefícios</b><br>
+<h3><b>Benefícios</b><br></h3>
 -Controlar a distancia, basta uma conexão com wi-fi.<br>
 -Não se preocupar com a alimentação, pois a casa fará todo o processo.<br>
 -Um cantinho aconchegante para seu melhor amigo.<br>
@@ -257,14 +250,14 @@ void loop() {
 	🚧Em construção... 🚧
 </h4>
 
-- [ ] Construção Física da Casa
-- [ ] Construção Física do Alimentador
+- [x] Construção Física da Casa
+- [x] Construção Física do Alimentador
 - [x] Códigos e Testes dos Componenetes
 
 <br><br>
 
 <p align = "center">
-<a href = "https://api.whatsapp.com/send?phone=5548996301654&text=Vinicius%20Damiani"><img src="Anuncio.gif" width="180" heigth="100">
+<a href = "https://chat.whatsapp.com/JAlEQSvuMBnHC49dplJw2Z"><img src="Anuncio.gif" width="180" heigth="100">
 </p>
 
 </html>
