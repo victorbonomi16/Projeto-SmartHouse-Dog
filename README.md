@@ -36,7 +36,7 @@ O projeto consiste no desenvolvimento de uma casa inteligente para os cães com 
 <br><br><br>
 
 <h3><b><p align="left">ESQUELETO SMARTHOUSE DOG</p></b></h3>
-<p align="left"><img src="EsqueletoSmartHome.png" width="410"></p>
+<p align="left"><img src="esqueleto.png" width="410"></p>
 <details>
 * Comprimento: 70cm<br>
 * Largura: 60cm<br>
@@ -49,11 +49,11 @@ O projeto consiste no desenvolvimento de uma casa inteligente para os cães com 
 <br><br><br>
 
 <h3><b><p align="left">ALIMENTADOR SMARTHOUSE DOG</p></b></h3>
-<p align="left"><img src="AlimentadorCompleto.png" width="410"></p>
+<p align="left"><img src="Alimentador.png" width="410"></p>
 <details>
 * Comprimento: 20cm<br>
 * Largura: 20cm<br>
-* Altura: 70cm<br> 
+- Altura: 70cm<br> 
 * Material utilizado: madeira<br>
 <summary> <b>Especificações Alimentador</b>
 </details>
@@ -61,12 +61,15 @@ O projeto consiste no desenvolvimento de uma casa inteligente para os cães com 
 
 <br><br>
 <hr size="4" width="100%" color="#0E0B16">
-<br><br>
 
-<h2><b><p align="left">Recursos</p></h2></b>
+
+<h3><b><p align="left">RECURSOS</p></h3></b>
+<br><br>
 <b>ALIMENTAÇÃO</b><br>
-A alimentação será de forma automática(Timer)
- ou de forma remota, através do seu SmartPhone.<br><br>
+>A alimentação será de forma automática(Timer)
+ ou de forma remota, através do seu SmartPhone. Foi utilizado uma rosca sem fim (Semelhante a um parafuso, em formato espiral fazendo com que seu movimento empurre a racao ate um determinado local) e acima dela fica um grande reservatório, onde quando der o horario ou a pessoa ativar o alimentador, o programa verificará a celula de carga(semelhante a uma balança) que se localiza abaixo do pote de comida, e se indicar que nao tem peso sobre ela(ou seja, nao tem racao)a rosca é ativada e desloca a racao ate o potinho do cachorro, caso contrario, nao acontecerá nada e o programa executará somente no proximo horario, repetindo a verificacao.<br><br><br>
+ <p align="center"><img src="mecanismo1.png" width="300">
+ <img src="alimentacao.jpeg" width="210"></p>
 
 <b>ILUMINAÇÃO</b><br>
 A iluminação será de forma automática. O controle é dado por um timer totalmente alteravél em seu SmartPhone.<br><br>
