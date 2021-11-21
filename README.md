@@ -6,47 +6,55 @@
 
 <h1><p align="center">SMARTHOUSE DOG</p></h1>
 
+<h3><b><p align="left">SOBRE O PROJETO </b></h3>
+Smart House Dog se trata de um projeto de IOT, desenvolvido na disciplina de tecnologias aplicadas na 4ª fase do curso técnico de informática SATC.</p>
+
+<br>
+
+<hr size="4" width="100%" color="#0E0B16">
+
+
 <h3><b><p align="left">OBJETIVO </b></h3>
 O projeto consiste no desenvolvimento de uma casa inteligente para os cães com o intuito de trazer o conforto para o seu cãozinho e comodidade para seu dono. </p>
 
-<br><br>
+<br>
 <hr size="4" width="100%" color="#0E0B16">
 <br><br>
 
-<h3><b><p align="center">MODELO 3D COMPLETO DA SMARTHOUSE DOG</p></b></h3>
-<p align="center"><img src="modelo3DsmartHouseDog.gif" width="410"></p>
+<h3><b><p align="left">MODELO 3D COMPLETO DA SMARTHOUSE DOG</p></b></h3>
+<p align="left"><img src="modelo3DsmartHouseDog.gif" width="410"></p>
 <details>
--Telhado: telha sanduiche<br>
--Parede externa: forro de pinus<br>
--Parede interna: xapadur<br>
--Entre a parede: manta térmica<br>
--Base: tábua de pinus<br>
--Parede frontal: acrílico<br>
+* Telhado: telha sanduiche<br>
+* Parede externa: forro de pinus<br>
+* Parede interna: xapadur<br>
+* Entre a parede: manta térmica<br>
+* Base: tábua de pinus<br>
+* Parede frontal: acrílico<br>
 <summary> <b>Especificações técnicas</b>
 </details>
 
 <br><br><br>
 
-<h3><b><p align="center">ESQUELETO SMARTHOUSE DOG</p></b></h3>
-<p align="center"><img src="EsqueletoSmartHome.png" width="410"></p>
+<h3><b><p align="left">ESQUELETO SMARTHOUSE DOG</p></b></h3>
+<p align="left"><img src="EsqueletoSmartHome.png" width="410"></p>
 <details>
--Comprimento: 70cm<br>
--Largura: 60cm<br>
--Altura frontal: 50cm<br> 
--Altura fundo: 40cm<br>
--Material utilizado: metalom galvanizado<br>
+* Comprimento: 70cm<br>
+* Largura: 60cm<br>
+* Altura frontal: 50cm<br> 
+* Altura fundo: 40cm<br>
+* Material utilizado: metalom galvanizado<br>
 <summary> <b>Dimensões</b>
 </details>
 
 <br><br><br>
 
-<h3><b><p align="center">ALIMENTADOR SMARTHOUSE DOG</p></b></h3>
-<p align="center"><img src="AlimentadorCompleto.png" width="410"></p>
+<h3><b><p align="left">ALIMENTADOR SMARTHOUSE DOG</p></b></h3>
+<p align="left"><img src="AlimentadorCompleto.png" width="410"></p>
 <details>
--Comprimento: 20cm<br>
--Largura: 20cm<br>
--Altura: 70cm<br> 
--Material utilizado: madeira<br>
+* Comprimento: 20cm<br>
+* Largura: 20cm<br>
+* Altura: 70cm<br> 
+* Material utilizado: madeira<br>
 <summary> <b>Especificações Alimentador</b>
 </details>
 </p>
