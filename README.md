@@ -116,10 +116,10 @@ O projeto consiste no desenvolvimento de uma casa inteligente para os cães com 
 <br>
 <hr size="1" width="100%" color="#0E0B16">
 
-<h2><b><p align="center">PLATAFORMA E HARDWARE</p></h2></b>
+<h2><b><p align="center">PLATAFORMA E LINGUAGEM</p></h2></b>
 <br>
 
-- Para a realização do projeto, foi utilizado um Arduino Uno e toda sua programação foi realizada na sua IDE. Foi utilizado o aplicativo Blynk para fazer o controle remoto.<br>
+- Para a realização do projeto, foi utilizado um Arduino Uno e toda a programação foi realizada na sua IDE. Foi utilizado o aplicativo Blynk para fazer o controle remoto.<br>
 <p align="center">
 <img src="logoIDE.png" width="100" heigth="100">
 <img src="blynk.png" width="100" heigth="100"></p>
@@ -141,7 +141,20 @@ O projeto consiste no desenvolvimento de uma casa inteligente para os cães com 
 
 <br>
 <p align="center">
-<img src="c++.png" width="100" heigth="100"><br></p>
+<img src="c++.png" width="100" heigth="100"></p>
+
+<br>
+<hr size="1" width="100%" color="#0E0B16">
+
+
+<h2><b><p align="center">HARDWARE</p></h2></b>
+
+<h3><b><i>CIRCUITO</i></b></h3>
+
+>O circuito foi montado através do software fritizing, representando o hardware exato do projeto. A sequência dos pinos nesta imagem podem estar diferentes das atuais. 
+
+<p align="left">
+<img src="esquematico.png" width="400"><br></p>
 
 
 <details>
@@ -151,12 +164,12 @@ O projeto consiste no desenvolvimento de uma casa inteligente para os cães com 
 &#x1F4BB;2x Sensores de temperatura e umidade<br>
 &#x1F4BB;1x ESP8266<br>
 &#x1F4BB;1x Célula de carga e módulo<br>
-&#x1F4BB;2x LEDS<br>
 &#x1F4BB;2x Resistores<br>
 &#x1F4BB;1x Motor com redutor 30RPM<br>
 &#x1F4BB;1x Motor peristáltico<br> 
 &#x1F4BB;1x Luz externa<br>
-&#x1F4BB;1x Sensor de Nível de Água
+&#x1F4BB;1x Sensor de Nível de Água<br>
+&#x1F4BB;1x Sensor Ultrassônico
 <summary><b>Componentes Utilizados &#x2714;</b> </summary>
 </details>
 
