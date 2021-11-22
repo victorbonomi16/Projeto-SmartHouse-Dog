@@ -116,7 +116,9 @@ O projeto consiste no desenvolvimento de uma casa inteligente para os cães com 
 <br>
 <hr size="1" width="100%" color="#0E0B16">
 
-<h2><b><p align="center">PLATAFORMA E LINGUAGEM</p></h2></b>
+<h3><b><p align="center">PLATAFORMA E LINGUAGEM</p></h3></b>
+
+<hr size="1" width="100%" color="#0E0B16">
 <br>
 
 - Para a realização do projeto, foi utilizado um Arduino Uno e toda a programação foi realizada na sua IDE. Foi utilizado o aplicativo Blynk para fazer o controle remoto.<br>
