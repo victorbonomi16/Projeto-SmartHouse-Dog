@@ -66,7 +66,7 @@ O projeto consiste no desenvolvimento de uma casa inteligente para os cães com 
 </p>
 
 <br><br>
-<hr size="4" width="100%" color="#0E0B16">
+<hr size="1" width="100%" color="#0E0B16">
 
 
 <h2><b><p align="center">RECURSOS DA SMARTHOUSE DOG</p></h2></b>
@@ -112,18 +112,22 @@ O projeto consiste no desenvolvimento de uma casa inteligente para os cães com 
 <h3><b><i>ISOLAMENTO</i></b></h3>
 
 >A casa conta com paredes que possuem revestimento em manta térmica, com obejtivo de reduzir a temperatura para que o cãozinho fique confortável.
-<br><br>
 
-<h2><b>Plataforma e Hardware</b></h2>
-<br>	
--Para a realização do projeto na parte de hardware, foi utilizado um Arduino Uno. Para inserir a programação utilizamos sua IDE.<br>
-<p align="center">
-<img src="logoIDE.png" width="100" heigth="100"></p>
-<br><br>
-
-<i>"Mas o que é o arduino?"</i>
 <br>
--Arduino é uma plataforma eletrônica de código aberto baseada em hardware e software fáceis de usar. As placas Arduino são capazes de ler entradas - luz em um sensor, um dedo em um botão ou uma mensagem do Twitter - e transformá-la em uma saída - ativando um motor, ligando um LED, publicando algo online. Você pode dizer à sua placa o que fazer enviando um conjunto de instruções para o microcontrolador da placa.
+<hr size="1" width="100%" color="#0E0B16">
+
+<h2><b><p align="center">PLATAFORMA E HARDWARE</p></h2></b>
+<br>
+
+- Para a realização do projeto, foi utilizado um Arduino Uno e toda sua programação foi realizada na sua IDE. Foi utilizado o aplicativo Blynk para fazer o controle remoto.<br>
+<p align="center">
+<img src="logoIDE.png" width="100" heigth="100">
+<img src="blynk.png" width="100" heigth="100"></p>
+<br><br>
+
+ "Mas o que é o arduino?"
+
+>Arduino é uma plataforma eletrônica de código aberto baseada em hardware e software fáceis de usar. As placas Arduino são capazes de ler entradas - luz em um sensor, um dedo em um botão ou uma mensagem do Twitter - e transformá-la em uma saída - ativando um motor, ligando um LED, publicando algo online. Você pode dizer à sua placa o que fazer enviando um conjunto de instruções para o microcontrolador da placa.
 <br>
 <p align="center">
 <img src="imagemArduinoUno.png" width="200"><br></p>
@@ -132,11 +136,12 @@ O projeto consiste no desenvolvimento de uma casa inteligente para os cães com 
 <br>
 
 <h2><b>Linguagem</b></h2>
+
+>A linguagem utilizada foi C++ que é uma linguagem de alto nível utilizada para programação em arduino.
+
 <br>
 <p align="center">
 <img src="c++.png" width="100" heigth="100"><br></p>
--A linguagem utilizada foi C++ que é uma linguagem de alto nível utilizada para programação em arduino.
-<br><br>
 
 
 <details>
