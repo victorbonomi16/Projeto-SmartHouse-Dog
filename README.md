@@ -24,38 +24,44 @@ O projeto consiste no desenvolvimento de uma casa inteligente para os cães com 
 <h3><b><p align="left">MODELO 3D COMPLETO DA SMARTHOUSE DOG</p></b></h3>
 <p align="left"><img src="modelo3DsmartHouseDog.gif" width="410"></p>
 <details>
-* Telhado: telha sanduiche<br>
-* Parede externa: forro de pinus<br>
-* Parede interna: xapadur<br>
-* Entre a parede: manta térmica<br>
-* Base: tábua de pinus<br>
-* Parede frontal: acrílico<br>
+<ul>
+<li>Telhado: telha sanduiche</li>
+<li>Parede externa: MDF</li>
+<li>Parede interna: xapadur</li>
+<li>Entre a parede: manta térmica</li>
+<li>Base: MDF</li>
+<li>Parede frontal: acrílico</li>
+</ul>
 <summary> <b>Especificações técnicas</b>
 </details>
 
 <br><br><br>
 
 <h3><b><p align="left">ESQUELETO SMARTHOUSE DOG</p></b></h3>
-<p align="left"><img src="esqueleto.png" width="410"></p>
+<p align="left"><img src="esqueleto.png" width="300"></p>
 <details>
-* Comprimento: 70cm<br>
-* Largura: 60cm<br>
-* Altura frontal: 50cm<br> 
-* Altura fundo: 40cm<br>
-* Material utilizado: metalom galvanizado<br>
+<ul>
+<li>Comprimento: 70cm</li>
+<li>Largura: 60cm</li>
+<li>Altura frontal: 50cm</li>
+<li>Altura fundo: 40cm</li>
+<li>Material utilizado: metalom galvanizado</li>
+</ul>
 <summary> <b>Dimensões</b>
 </details>
 
 <br><br><br>
 
 <h3><b><p align="left">ALIMENTADOR SMARTHOUSE DOG</p></b></h3>
-<p align="left"><img src="Alimentador.png" width="410"></p>
+<p align="left"><img src="Alimentador.png" width="300"></p>
 <details>
-* Comprimento: 20cm<br>
-* Largura: 20cm<br>
-- Altura: 70cm<br> 
-* Material utilizado: madeira<br>
-<summary> <b>Especificações Alimentador</b>
+<ul>
+<li>Comprimento: 20cm</li>
+<li>Largura: 20cm</li>
+<li>Altura: 70cm</li> 
+<li>Material utilizado: madeira</li>
+</ul>
+<summary> <b>Especificações Alimentador</li></b>
 </details>
 </p>
 
@@ -65,13 +71,16 @@ O projeto consiste no desenvolvimento de uma casa inteligente para os cães com 
 
 <h3><b><p align="left">RECURSOS</p></h3></b>
 <br><br>
-<b>ALIMENTAÇÃO</b><br>
->A alimentação será de forma automática(Timer)
- ou de forma remota, através do seu SmartPhone. Foi utilizado uma rosca sem fim (Semelhante a um parafuso, em formato espiral fazendo com que seu movimento empurre a racao ate um determinado local) e acima dela fica um grande reservatório, onde quando der o horario ou a pessoa ativar o alimentador, o programa verificará a celula de carga(semelhante a uma balança) que se localiza abaixo do pote de comida, e se indicar que nao tem peso sobre ela(ou seja, nao tem racao)a rosca é ativada e desloca a racao ate o potinho do cachorro, caso contrario, nao acontecerá nada e o programa executará somente no proximo horario, repetindo a verificacao.<br><br><br>
+<b><i>ALIMENTAÇÃO</i></b><br><br>
+A alimentação será de forma automática (Timer)
+ ou de forma remota, através do seu SmartPhone. Foi utilizado uma rosca sem fim (semelhante a um parafuso, em formato helicoidal fazendo com que seu movimento empurre a ração até um determinado local) e acima dela fica um grande reservatório, onde quando der o horário ou a pessoa ativar o alimentador, o programa verificará a celula de carga (semelhante a uma balança) que se localiza abaixo do pote de comida, e se indicar que não tem peso sobre ela (ou seja, nao tem ração) a rosca é ativada e desloca a ração até o potinho do cachorro, caso contrário, não acontecerá nada e o programa executará somente no próximo horário, repetindo a verificação.<br><br><br>
  <p align="center"><img src="mecanismo1.png" width="300">
- <img src="alimentacao.jpeg" width="210"></p>
+ <img src="alimentacao.jpeg" width="210"></p><br><br>
 
-<b>ILUMINAÇÃO</b><br>
+<b><i>BEBEDOURO</i></b><br>
+>A iluminação será de forma automática. O controle é dado por um timer totalmente alteravél em seu SmartPhone. Foi utilizado um sensor de nível de água para fazer a verificação da quantidade presente no pote, seguindo a mesma lógica da alimentação. Ele irá verificar e caso não haja água no pote, ao chegar no horário,vai bombear a água de um reservatório (semelhante ao da ração) para o potinho do cachorro através de um motor peristáltico.<br><br>
+
+<b><i>ILUMINAÇÃO</i></b><br>
 A iluminação será de forma automática. O controle é dado por um timer totalmente alteravél em seu SmartPhone.<br><br>
 
 <b>ISOLAMENTO</b><br>
@@ -266,6 +275,7 @@ void loop() {
 - [x] Códigos e Testes dos Componenetes
 
 <br><br>
+
 
 <p align = "center">
 <a href = "https://chat.whatsapp.com/JAlEQSvuMBnHC49dplJw2Z"><img src="Anuncio.gif" width="180" heigth="100">
