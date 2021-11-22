@@ -85,22 +85,34 @@ O projeto consiste no desenvolvimento de uma casa inteligente para os cães com 
  <p align="center"><img src="mecanismo1.png" width="300">
  <img src="alimentacao.jpeg" width="210"></p><br><br>
 
-<h3><b><i>BEBEDOURO</i></b></h3><br>
+<h3><b><i>BEBEDOURO</i></b></h3>
 
->A iluminação será de forma automática. O controle é dado por um timer totalmente alteravél em seu SmartPhone. Foi utilizado um sensor de nível de água para fazer a verificação da quantidade presente no pote, seguindo a mesma lógica da alimentação. Ele irá verificar e caso não haja água no pote, ao chegar no horário,vai bombear a água de um reservatório (semelhante ao da ração) para o potinho do cachorro através de um motor peristáltico.
+>O bebedouro será de forma automática. O controle é dado por um timer totalmente alteravél em seu SmartPhone, ou se preferir, através de um botão manual. Foi utilizado um sensor de nível de água para fazer a verificação da quantidade presente no pote, seguindo a mesma lógica da alimentação. Ele irá verificar e caso não haja água no pote, ao chegar no horário,vai bombear a água de um reservatório (semelhante ao da ração) para o potinho do cachorro através de um motor peristáltico.
 
 <br>
 <p align="center"><img src="bebedouro.jpeg" width="210"></p>
+<br><br>
 
-<b><i>ILUMINAÇÃO</i></b><br>
-A iluminação será de forma automática. O controle é dado por um timer totalmente alteravél em seu SmartPhone.<br><br>
+<h3><b><i>ILUMINAÇÃO</i></b></h3>
 
-<b>ISOLAMENTO</b><br>
-A casa conta com paredes que possuem revestimento em manta térmica.<br><br>
+>A iluminação será de forma automática. O controle é dado por um timer totalmente alteravél em seu SmartPhone.
 
-<b>COMUNICAÇÃO</b><br>
-Você terá acesso a todas as informações do hardware através do seu SmartPhone. Além de notificações constantemente.
-<br><br><br><br>
+<br>
+<p align="center"><img src="iluminacao.jpeg" width="210"></p>
+
+<br><br>
+
+<h3><b><i>TEMPERATURA</i></b></h3>
+
+>A casa conta com dois sensores de temperatura (DHT11) que fazem a medição da temperatura. Ficam localizados na parte dos componentes e na parte interna da casa. Caso esteja muito quente na parte dos componentes, são ativados os coolers para resfriar e não causar nenhum problema/dano. Já o outro faz a medição da temperatura do ambiente em que o cachorro está, e caso esteja muito quente, manda uma notificação para o dono o recomendando de dar uma voltinha com seu amigo. Os mostradores dentro do blynk mudam de cor conforme a temperatura. Se estiver baixa, muda para azul, indicando que está frio. Se estiver razoável, fica amarela, indicando que a temperatura está razoável. Se estiver alta, muda para vermelho, indcando que está quente no local.
+
+<br>
+<p align="center"><img src="temperatura.jpeg" width="210"></p>
+
+<h3><b><i>ISOLAMENTO</i></b></h3>
+
+>A casa conta com paredes que possuem revestimento em manta térmica, com obejtivo de reduzir a temperatura para que o cãozinho fique confortável.
+<br><br>
 
 <h2><b>Plataforma e Hardware</b></h2>
 <br>	
