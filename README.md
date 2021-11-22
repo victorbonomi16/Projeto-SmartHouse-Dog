@@ -135,7 +135,7 @@ O projeto consiste no desenvolvimento de uma casa inteligente para os cães com 
 <br>
 <br>
 
-<h2><b>Linguagem</b></h2>
+<h3><b>Linguagem</b></h3>
 
 >A linguagem utilizada foi C++ que é uma linguagem de alto nível utilizada para programação em arduino.
 
@@ -147,7 +147,9 @@ O projeto consiste no desenvolvimento de uma casa inteligente para os cães com 
 <hr size="1" width="100%" color="#0E0B16">
 
 
-<h2><b><p align="center">HARDWARE</p></h2></b>
+<h3><b><p align="center">HARDWARE</p></h3></b>
+
+<hr size="1" width="100%" color="#0E0B16">
 
 <h3><b><i>CIRCUITO</i></b></h3>
 
