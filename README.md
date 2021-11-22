@@ -69,7 +69,8 @@ O projeto consiste no desenvolvimento de uma casa inteligente para os cães com 
 <hr size="1" width="100%" color="#0E0B16">
 
 
-<h2><b><p align="center">RECURSOS DA SMARTHOUSE DOG</p></h2></b>
+<h3><b><p align="center">RECURSOS DA SMARTHOUSE DOG</p></h3></b>
+<hr size="1" width="100%" color="#0E0B16">
 <br><br>
 <h3><b><i>COMUNICAÇÃO</i></b></h3>
 
@@ -205,13 +206,11 @@ void Ler_Sensor()
  Serial.println(ValorSensor);
   if(!ValorSensor)                 
   {                                      
-     delay(2000);
      digitalWrite(ReleMotor, HIGH);            
 
   } 
   else                                    
   {                                       
-     delay(2000);
      digitalWrite(ReleMotor, LOW);           
   } 
 
@@ -255,7 +254,7 @@ void loop()
   Serial.print(" kg");
   Serial.print("      Fator de Calibração: ");               
   Serial.println(calibration_factor);                       
-  delay(500) ;  
+   
 }
 ```
 <br><br>
@@ -282,7 +281,6 @@ void setup() {
 
 void loop() {
 
-  delay(2000);
 
   float humidade = dht.readHumidity();
 
@@ -299,16 +297,26 @@ void loop() {
 
 }
 ```
-<summary><b>Codigos &#x2714;</b> </summary>
+<summary><b>Codigos testes &#x2714;</b> </summary>
 </details>
 <br>
-<h3><b>Benefícios</b><br></h3>
--Controlar a distancia, basta uma conexão com wi-fi.<br>
--Não se preocupar com a alimentação, pois a casa fará todo o processo.<br>
--Um cantinho aconchegante para seu melhor amigo.<br>
--Informações sobre a casa em seu Smartphone.<br>
--A casa possui um detalhe minimalista, porém muito aconchegante.<br>
--Baixo custo.<br>
+
+<hr size="1" width="100%" color="#0E0B16">
+
+
+<h3><b><p align="center">SOBRE A CASA</p></h3></b>
+
+<hr size="1" width="100%" color="#0E0B16">
+<br>
+
+<h3><b><i>BENEFÍCIOS</i></b></h3>
+
+- Controlar a distancia, basta uma conexão com wi-fi.<br> 
+- Não se preocupar com a alimentação, pois a casa fará todo o processo.<br>
+- Um cantinho aconchegante para seu melhor amigo.<br>
+- Informações sobre a casa em seu Smartphone.<br>
+- A casa possui um detalhe minimalista, porém muito aconchegante.<br>
+- Baixo custo.<br>
 
 <br><br>
 
