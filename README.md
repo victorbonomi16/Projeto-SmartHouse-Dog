@@ -69,15 +69,18 @@ O projeto consiste no desenvolvimento de uma casa inteligente para os cães com 
 <hr size="4" width="100%" color="#0E0B16">
 
 
-<h3><b><p align="left">RECURSOS</p></h3></b>
+<h2><b><p align="left">RECURSOS</p></h2></b>
 <br><br>
-<b><i>ALIMENTAÇÃO</i></b><br><br>
-A alimentação será de forma automática (Timer)
- ou de forma remota, através do seu SmartPhone. Foi utilizado uma rosca sem fim (semelhante a um parafuso, em formato helicoidal fazendo com que seu movimento empurre a ração até um determinado local) e acima dela fica um grande reservatório, onde quando der o horário ou a pessoa ativar o alimentador, o programa verificará a celula de carga (semelhante a uma balança) que se localiza abaixo do pote de comida, e se indicar que não tem peso sobre ela (ou seja, nao tem ração) a rosca é ativada e desloca a ração até o potinho do cachorro, caso contrário, não acontecerá nada e o programa executará somente no próximo horário, repetindo a verificação.<br><br><br>
+<h3><b><i>ALIMENTAÇÃO</i></b></h3><br>
+
+>A alimentação será de forma automática (Timer) ou de forma remota, através do seu SmartPhone. Foi utilizado uma rosca sem fim (semelhante a um parafuso, em formato helicoidal fazendo com que seu movimento empurre a ração até um determinado local) e acima dela fica um grande reservatório, onde quando der o horário ou a pessoa ativar o alimentador, o programa verificará a celula de carga (semelhante a uma balança) que se localiza abaixo do pote de comida, e se indicar que não tem peso sobre ela (ou seja, nao tem ração) a rosca é ativada e desloca a ração até o potinho do cachorro, caso contrário, não acontecerá nada e o programa executará somente no próximo horário, repetindo a verificação.
+
+<br>
  <p align="center"><img src="mecanismo1.png" width="300">
  <img src="alimentacao.jpeg" width="210"></p><br><br>
 
-<b><i>BEBEDOURO</i></b><br>
+<h3><b><i>BEBEDOURO</i></b></h3><br>
+
 >A iluminação será de forma automática. O controle é dado por um timer totalmente alteravél em seu SmartPhone. Foi utilizado um sensor de nível de água para fazer a verificação da quantidade presente no pote, seguindo a mesma lógica da alimentação. Ele irá verificar e caso não haja água no pote, ao chegar no horário,vai bombear a água de um reservatório (semelhante ao da ração) para o potinho do cachorro através de um motor peristáltico.<br><br>
 
 <b><i>ILUMINAÇÃO</i></b><br>
