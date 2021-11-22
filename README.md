@@ -154,7 +154,7 @@ O projeto consiste no desenvolvimento de uma casa inteligente para os cães com 
 >O circuito foi montado através do software fritizing, representando o hardware exato do projeto. A sequência dos pinos nesta imagem podem estar diferentes das atuais. 
 
 <p align="left">
-<img src="esquematico.png" width="400"><br></p>
+<img src="esquematico.png" width="600"><br></p>
 
 
 <details>
