@@ -31,8 +31,9 @@
 - A casa possui um detalhe minimalista, porém muito aconchegante.<br>
 - Baixo custo.<br>
 
-<br><br>
-<br><br>
+<br>
+<hr size="4" width="100%" color="#0E0B16">
+
 
 <h3><b><p align="left">MODELO 3D COMPLETO</p></b></h3>
 <p align="left"><img src="modelo3DsmartHouseDog.gif" width="410"></p>
