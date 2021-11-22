@@ -6,16 +6,18 @@
 
 <h1><p align="center">SMARTHOUSE DOG</p></h1>
 
-<h3><b><p align="left"><i>SOBRE O PROJETO </i></b></h3>
-Smart House Dog se trata de um projeto de IOT, desenvolvido na disciplina de tecnologias aplicadas na 4ª fase do curso técnico de informática SATC.</p>
+<h3><b><i>SOBRE O PROJETO</i></b></h3>
+
+>Smart House Dog se trata de um projeto de IOT, desenvolvido na disciplina de tecnologias aplicadas na 4ª fase do curso técnico de informática SATC.
 
 <br>
 
 <hr size="4" width="100%" color="#0E0B16">
 
 
-<h3><b><p align="left"><i>OBJETIVO </i></b></h3>
-O projeto consiste no desenvolvimento de uma casa inteligente para os cães, onde todo o controle é feito através do smartphone com o intuito de trazer o conforto para o seu cãozinho e comodidade para seu dono. </p>
+<h3><b><i>OBJETIVO</i></b></h3>
+
+>O projeto consiste no desenvolvimento de uma casa inteligente para os cães, onde todo o controle é feito através do smartphone com o intuito de trazer o conforto para o seu cãozinho e comodidade para seu dono. </p>
 
 <br>
 <hr size="4" width="100%" color="#0E0B16">
