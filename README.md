@@ -69,9 +69,9 @@ O projeto consiste no desenvolvimento de uma casa inteligente para os cães com 
 <hr size="4" width="100%" color="#0E0B16">
 
 
-<h2><b><p align="left">RECURSOS</p></h2></b>
+<h2><b><p align="center">RECURSOS DA SMARTHOUSE DOG</p></h2></b>
 <br><br>
-<h3><b><i>COMUNICAÇÃO</i></b></h3><br>
+<h3><b><i>COMUNICAÇÃO</i></b></h3>
 
 >Você terá acesso a todas as informações do hardware através do seu SmartPhone. Além de notificações constantemente.
 
