@@ -6,7 +6,7 @@
 
 <h1><p align="center">SMARTHOUSE DOG</p></h1>
 
-<h3><b><p align="left">SOBRE O PROJETO </b></h3>
+<h3><b><p align="left"><i>SOBRE O PROJETO </i></b></h3>
 Smart House Dog se trata de um projeto de IOT, desenvolvido na disciplina de tecnologias aplicadas na 4ª fase do curso técnico de informática SATC.</p>
 
 <br>
@@ -14,11 +14,22 @@ Smart House Dog se trata de um projeto de IOT, desenvolvido na disciplina de tec
 <hr size="4" width="100%" color="#0E0B16">
 
 
-<h3><b><p align="left">OBJETIVO </b></h3>
-O projeto consiste no desenvolvimento de uma casa inteligente para os cães com o intuito de trazer o conforto para o seu cãozinho e comodidade para seu dono. </p>
+<h3><b><p align="left"><i>OBJETIVO </i></b></h3>
+O projeto consiste no desenvolvimento de uma casa inteligente para os cães, onde todo o controle é feito através do smartphone com o intuito de trazer o conforto para o seu cãozinho e comodidade para seu dono. </p>
 
 <br>
 <hr size="4" width="100%" color="#0E0B16">
+
+<h3><b><i>BENEFÍCIOS</i></b></h3>
+
+- Controlar a distancia, basta uma conexão com wi-fi.<br> 
+- Não se preocupar com a alimentação, pois a casa fará todo o processo.<br>
+- Um cantinho aconchegante para seu melhor amigo.<br>
+- Informações sobre a casa em seu Smartphone.<br>
+- A casa possui um detalhe minimalista, porém muito aconchegante.<br>
+- Baixo custo.<br>
+
+<br><br>
 <br><br>
 
 <h3><b><p align="left">MODELO 3D COMPLETO</p></b></h3>
@@ -304,19 +315,6 @@ void loop() {
 <hr size="1" width="100%" color="#0E0B16">
 
 
-<h3><b><p align="center">SOBRE A CASA</p></h3></b>
-
-<hr size="1" width="100%" color="#0E0B16">
-<br>
-
-<h3><b><i>BENEFÍCIOS</i></b></h3>
-
-- Controlar a distancia, basta uma conexão com wi-fi.<br> 
-- Não se preocupar com a alimentação, pois a casa fará todo o processo.<br>
-- Um cantinho aconchegante para seu melhor amigo.<br>
-- Informações sobre a casa em seu Smartphone.<br>
-- A casa possui um detalhe minimalista, porém muito aconchegante.<br>
-- Baixo custo.<br>
 
 <br><br>
 
