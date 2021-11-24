@@ -49,7 +49,7 @@
 >- Parede frontal: acrílico
 
 <br>
-<p align="left"><img src="modelo3DsmartHouseDog.gif" width="410"></p>
+<p align="left"><img src="modelo3DsmartHouseDog.gif" width="510"></p>
 
 
 
