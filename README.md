@@ -65,13 +65,15 @@
 >- Largura: 60cm<br>
 >- Altura frontal: 50cm<br>
 >- Altura fundo: 40cm<br>
->- Material utilizado: metalom galvanizado<br>
+>- Material utilizado: metalom galvanizado
+
+<br>
 
 <p align="center"><img src="esqueletoimg.png" width="200">
 <img src="esqueleto2img.png" width="200"></p>
 
 
-<br><br><br>
+<br><br>
 
 <h3><b><p align="left">ALIMENTADOR</p></b></h3>
 <p align="left"><img src="Alimentador.png" width="300"></p>
