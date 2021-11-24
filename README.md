@@ -84,7 +84,7 @@
 
 <br>
 
-<p align="left"><img src="alimentadorimg.png" width="260">
+<p align="center"><img src="alimentadorimg.png" width="260">
 <img src="alimentador2img.png" width="260"></p>
 
 
