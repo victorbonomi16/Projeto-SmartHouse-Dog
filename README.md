@@ -75,18 +75,19 @@
 
 <br><br>
 
-<h3><b><p align="left">ALIMENTADOR</p></b></h3>
-<p align="left"><img src="Alimentador.png" width="300"></p>
-<details>
-<ul>
-<li>Comprimento: 20cm</li>
-<li>Largura: 20cm</li>
-<li>Altura: 70cm</li> 
-<li>Material utilizado: madeira</li>
-</ul>
-<summary> <b>Especificações Alimentador</li></b>
-</details>
-</p>
+<h3><b><i>ALIMENTADOR</i></b></h3>
+
+>- Comprimento: 20cm<br>
+>- Largura: 20cm<br>
+>- Altura: 70cm<br>
+>- Material utilizado: madeira
+
+<br>
+
+<p align="left"><img src="alimentadorimg.png" width="260">
+<img src="alimentador2img.png" width="260"></p>
+
+
 
 <br><br>
 <hr size="1" width="100%" color="#0E0B16">
