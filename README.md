@@ -69,8 +69,8 @@
 
 <br>
 
-<p align="center"><img src="esqueletoimg.png" width="200">
-<img src="esqueleto2img.png" width="200"></p>
+<p align="center"><img src="esqueletoimg.png" width="260">
+<img src="esqueleto2img.png" width="260"></p>
 
 
 <br><br>
