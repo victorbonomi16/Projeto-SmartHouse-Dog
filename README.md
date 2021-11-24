@@ -41,18 +41,21 @@
 
 <h3><b><i>MODELO 3D COMPLETO</i></b></h3>
 
-- Telhado: telha sanduiche<br>
-- Parede externa: MDF<br>
-- Parede interna: xapadur<br>
-- Entre a parede: manta térmica<br>
-- Base: MDF<br>
-- Parede frontal: acrílico<br>
+>- Telhado: telha sanduiche<br>
+>- Parede externa: MDF<br>
+>- Parede interna: xapadur<br>
+>- Entre a parede: manta térmica<br>
+>- Base: MDF<br>
+>- Parede frontal: acrílico
+
 <br>
-<p align="center"><img src="modelo3DsmartHouseDog.gif" width="410"></p>
+<p align="left"><img src="modelo3DsmartHouseDog.gif" width="410"></p>
 
 
 
 <br><br><br>
+
+
 
 <h3><b><i>ESQUELETO DA CASA</i></b></h3>
 
@@ -63,7 +66,7 @@
 >- Altura fundo: 40cm<br>
 >- Material utilizado: metalom galvanizado<br>
 
-<p align="center"><img src="esqueleto.png" width="300"></p>
+<p align="left"><img src="esqueleto.png" width="300"></p>
 
 
 <br><br><br>
