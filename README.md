@@ -34,7 +34,7 @@
 <br>
 <hr size="4" width="100%" color="#0E0B16">
 
-<h3><b><p align="center"><font size="5">ESTRUTURA SMARTHOUSE DOG</font></p></h3></b>
+<b><p align="center"><font size="5">ESTRUTURA SMARTHOUSE DOG</font></p></b>
 
 <hr size="1" width="100%" color="#0E0B16">
 <BR>
