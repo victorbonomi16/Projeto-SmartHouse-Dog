@@ -22,7 +22,7 @@
 <br>
 <hr size="4" width="100%" color="#0E0B16">
 
-<h4><b><i>BENEFÍCIOS</i></b></h4>
+<h3><b><i>BENEFÍCIOS</i></b></h3>
 
 - Controlar a distancia, basta uma conexão com wi-fi.<br> 
 - Não se preocupar com a alimentação, pois a casa fará todo o processo.<br>
@@ -39,7 +39,7 @@
 <hr size="1" width="100%" color="#0E0B16">
 <BR>
 
-<h4><b><i>MODELO 3D COMPLETO</i></b></h4>
+<h3><b><i>MODELO 3D COMPLETO</i></b></h3>
 
 >- Telhado: telha sanduiche<br>
 >- Parede externa: MDF<br>
@@ -145,8 +145,11 @@
 
 <hr size="1" width="100%" color="#0E0B16">
 <br>
+<h3><b><i>PLATAFORMA</i></b></h3>
 
-- Para a realização do projeto, foi utilizado um Arduino Uno e toda a programação foi realizada na sua IDE. Foi utilizado o aplicativo Blynk para fazer o controle remoto.<br>
+> Para a realização do projeto, foi utilizado um Arduino Uno e toda a programação foi realizada na sua IDE. Foi utilizado o aplicativo Blynk para fazer o controle remoto.
+
+<br>
 <p align="center">
 <img src="logoIDE.png" width="100" heigth="100">
 <img src="blynk.png" width="100" heigth="100"></p>
@@ -158,7 +161,6 @@
 <br>
 <p align="center">
 <img src="imagemArduinoUno.png" width="200"><br></p>
-© 2021 Arduino Política de Privacidade
 <br>
 <br>
 
@@ -174,7 +176,7 @@
 <hr size="1" width="100%" color="#0E0B16">
 
 
-<h3><b><p align="center">HARDWARE</p></h3></b>
+<h3><b><p align="center">HARDWARE E CÓDIGO</p></h3></b>
 
 <hr size="1" width="100%" color="#0E0B16">
 
@@ -202,7 +204,12 @@
 <summary><b>Componentes Utilizados &#x2714;</b> </summary>
 </details>
 
-<br>
+<br><br>
+
+<h3><b><i>CÓDIGO</i></b></h3>
+
+>Como visto anteriormente, o projeto foi desenvolvido na IDE do arduino, utilizando a linguagem C++. Foram utilizadas algumas bibliotecas para o funcionamento dos sensores.
+
 
 <details>
 <br>
@@ -323,27 +330,73 @@ void loop() {
 ```
 <summary><b>Codigos testes &#x2714;</b> </summary>
 </details>
+<br><br>
+
+<h3><b><i>BIBLIOTECAS</i></b></h3>
+
+- [HX711](https://www.arduino.cc/reference/en/libraries/hx711-arduino-library/)
+- [DHT](https://www.arduino.cc/reference/en/libraries/dht-sensor-library/)
+- [Blynk](https://github.com/blynkkk/blynk-library/releases/tag/v1.0.1)
+- [NewPing](https://playground.arduino.cc/Code/NewPing/#Download)
+
 <br>
 
 <hr size="1" width="100%" color="#0E0B16">
 
+<h3><b><p align="center">DESENVOLVEDORES </b></h3>
+</p>
+<hr size="1" width="100%" color="#0E0B16">
+<br>
+<font face="Bahnschrift Condensed" size="5" color="#C1CDC1">
+<p align="left">
+&#x1F920; Olá, eu sou o Victor. 
+</p></font>
+<details>
+<summary> <b>Um pouco mais sobre mim... </b><i>(Aperta aí)</i> </summary>
+&#x1F4BB;Cursando Informática no Colégio Satc <br> 
+&#x1F4BB;Aluno do 3° ano E.M do Colégio Satc <br>
+&#x1F575;Futuro estagiário <br>
+&#x1F5FA;Cocal do Sul-SC	
 
 
+&#x1F4F2;Me siga no [instagram](https://www.instagram.com/victor__bonomi/?hl=pt-br)!
+ 
+
+</details>
 <br><br>
+<font face="Bahnschrift Condensed" size="5" color="#C1CDC1">
+<p align="left">
+&#x1F920; Olá, eu sou o Vinicius. 
+</p></font>
+<details>
+<summary> <b>Um pouco mais sobre mim... </b><i>(Aperta aí)</i> </summary>
+&#x1F4BB;Cursando Informática no Colégio Satc <br> 
+&#x1F4BB;Aluno do 3° ano E.M do Colégio Satc <br>
+&#x1F575;Futuro estagiário <br>
+&#x1F5FA;Criciúma-SC	
 
-<h4 align="center"> 
-	🚧Em construção... 🚧
-</h4>
 
-- [x] Construção Física da Casa
-- [x] Construção Física do Alimentador
-- [x] Códigos e Testes dos Componenetes
+&#x1F4F2;Me siga no [instagram](https://www.instagram.com/vinidamiani_/?hl=pt-br)!
+ 
 
+</details>
 <br><br>
+<h3><b><i>CONTATO</i></b></h3>
+
+>- victorbonomi16@gmail.com - <b>Victor</b><br>
+>- vinidamiani03@gmail.com - <b>Vinicius</b>
+
+
+
+<br>
 
 
 <p align = "center">
-<a href = "https://chat.whatsapp.com/JAlEQSvuMBnHC49dplJw2Z"><img src="Anuncio.gif" width="180" heigth="100">
+<a href = "https://chat.whatsapp.com/JAlEQSvuMBnHC49dplJw2Z"><img src="Anuncio.gif" width="180" heigth="100"> </a>
 </p>
+
+<br>
+&#x1F4D6;<i>“Uma máquina consegue fazer o trabalho de 50 homens ordinários. Nenhuma máquina consegue fazer o trabalho de um homem extraordinário”.<br> 
+by: Elbert Hubbard. </i> 
 
 </html>
