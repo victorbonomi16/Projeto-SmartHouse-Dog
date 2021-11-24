@@ -22,7 +22,7 @@
 <br>
 <hr size="4" width="100%" color="#0E0B16">
 
-<h3><b><i>BENEFÍCIOS</i></b></h3>
+<h4><b><i>BENEFÍCIOS</i></b></h4>
 
 - Controlar a distancia, basta uma conexão com wi-fi.<br> 
 - Não se preocupar com a alimentação, pois a casa fará todo o processo.<br>
@@ -34,12 +34,12 @@
 <br>
 <hr size="4" width="100%" color="#0E0B16">
 
-<b><p align="center"><font size="5">ESTRUTURA SMARTHOUSE DOG</font></p></b>
+<h3><b><p align="center">ESTRUTURA SMARTHOUSE DOG</p></h3></b>
 
 <hr size="1" width="100%" color="#0E0B16">
 <BR>
 
-<h3><b><i>MODELO 3D COMPLETO</i></b></h3>
+<h4><b><i>MODELO 3D COMPLETO</i></b></h4>
 
 >- Telhado: telha sanduiche<br>
 >- Parede externa: MDF<br>
@@ -67,7 +67,8 @@
 >- Altura fundo: 40cm<br>
 >- Material utilizado: metalom galvanizado<br>
 
-<p align="left"><img src="esqueleto.png" width="300"></p>
+<p align="center"><img src="esqueletoimg.png" width="200">
+<img src="esqueleto2img.png" width="200"></p>
 
 
 <br><br><br>
