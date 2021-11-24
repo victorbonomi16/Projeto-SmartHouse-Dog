@@ -34,35 +34,37 @@
 <br>
 <hr size="4" width="100%" color="#0E0B16">
 
+<h3><b><p align="center">ESTRUTURA SMARTHOUSE DOG</p></h3></b>
 
-<h3><b><p align="left">MODELO 3D COMPLETO</p></b></h3>
-<p align="left"><img src="modelo3DsmartHouseDog.gif" width="410"></p>
-<details>
-<ul>
-<li>Telhado: telha sanduiche</li>
-<li>Parede externa: MDF</li>
-<li>Parede interna: xapadur</li>
-<li>Entre a parede: manta térmica</li>
-<li>Base: MDF</li>
-<li>Parede frontal: acrílico</li>
-</ul>
-<summary> <b>Especificações técnicas</b>
-</details>
+<hr size="1" width="100%" color="#0E0B16">
+<BR>
+
+<h3><b><i>MODELO 3D COMPLETO</i></b></h3>
+
+- Telhado: telha sanduiche<br>
+- Parede externa: MDF<br>
+- Parede interna: xapadur<br>
+- Entre a parede: manta térmica<br>
+- Base: MDF<br>
+- Parede frontal: acrílico<br>
+<br>
+<p align="center"><img src="modelo3DsmartHouseDog.gif" width="410"></p>
+
+
 
 <br><br><br>
 
-<h3><b><p align="left">ESQUELETO</p></b></h3>
-<p align="left"><img src="esqueleto.png" width="300"></p>
-<details>
-<ul>
-<li>Comprimento: 70cm</li>
-<li>Largura: 60cm</li>
-<li>Altura frontal: 50cm</li>
-<li>Altura fundo: 40cm</li>
-<li>Material utilizado: metalom galvanizado</li>
-</ul>
-<summary> <b>Dimensões</b>
-</details>
+<h3><b><i>ESQUELETO DA CASA</i></b></h3>
+
+
+>- Comprimento: 70cm<br>
+>- Largura: 60cm<br>
+>- Altura frontal: 50cm<br>
+>- Altura fundo: 40cm<br>
+>- Material utilizado: metalom galvanizado<br>
+
+<p align="center"><img src="esqueleto.png" width="300"></p>
+
 
 <br><br><br>
 
